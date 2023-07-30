@@ -19,7 +19,7 @@ We will be designing a zk-SNARK circuit( the zero-knowledge circuit guarantees t
 
 # Video walkthrough
 
-https://www.loom.com/share/f63d43004ce745cb920a4a643f1cd7f5
+https://www.loom.com/share/699480e1412643369c52eba49833f391?sid=6e133800-0aaa-4cdd-8075-d9190326e9c5
 
 
 # Authors
